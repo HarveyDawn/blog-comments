@@ -1,1 +1,1 @@
-# blog-comments
+# gitalk comments
